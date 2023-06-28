@@ -1,4 +1,4 @@
-module devploit/dontgo403
+module github.com/mohamedmed01345/dontgo403
 
 go 1.19
 
